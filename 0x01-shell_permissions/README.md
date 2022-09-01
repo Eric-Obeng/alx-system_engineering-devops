@@ -6,4 +6,4 @@ Create a script that switches the current user to the user betty
 4. command = touch hello
 5. command = chmod u+x hello
 6. command = chmod u+x,g+x,o+r hello
-7. command = chmod ugo+x
+7. command = chmod ugo+x hello
