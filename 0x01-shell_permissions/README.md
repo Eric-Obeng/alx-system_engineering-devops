@@ -8,3 +8,4 @@ Create a script that switches the current user to the user betty
 6. command = chmod u+x,g+x,o+r hello
 7. command = chmod ugo+x hello
 8. command = chmod 007 hello
+9. command = chmod 753 hello
