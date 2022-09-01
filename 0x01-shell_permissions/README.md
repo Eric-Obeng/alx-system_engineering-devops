@@ -5,3 +5,4 @@ Create a script that switches the current user to the user betty
 3. command = chown betty hello
 4. command = touch hello
 5. command = chmod u+x hello
+6. command = chmod u+x,g+x,o+r hello
