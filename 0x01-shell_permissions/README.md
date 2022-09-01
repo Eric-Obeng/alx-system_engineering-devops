@@ -10,3 +10,4 @@ Create a script that switches the current user to the user betty
 8. command = chmod 007 hello
 9. command = chmod 753 hello
 10. command = chmod --reference=olleh hello
+11. command = sudo chmod -R +111 */
